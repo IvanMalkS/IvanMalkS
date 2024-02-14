@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**IvanMalkS/IvanMalkS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# H1! I'm [YourName] 👋
 
-Here are some ideas to get you started:
+I'm Fullstack developer on JS and TS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+                    
+          
+
+
+## ⚡️ Statistic
+[![Wakatime](https://wakatime.com/badge/user/YourUsername.svg)](https://wakatime.com/@018d3cd2-dfab-4771-a68a-369b71f74247)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanMalkS&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanMalkS&theme=default&utcOffset=8) 
+
+## 📫 Связь
+* Здесь вы можете добавить ссылки на свои социальные сети или другие платформы.

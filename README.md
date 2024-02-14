@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # H1! I'm [YourName] 👋
 
 I'm Fullstack developer on JS and TS
@@ -15,5 +13,6 @@ I'm Fullstack developer on JS and TS
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanMalkS&theme=default) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanMalkS&theme=default&utcOffset=8) 
 
-## 📫 Связь
-* Здесь вы можете добавить ссылки на свои социальные сети или другие платформы.
+## 📫 Contacts
+Telegramm: @IvanMalkS
+E-mail: malkovsin@gmail.com

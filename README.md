@@ -15,8 +15,8 @@ I'm web developer
 ## ⚡️ Statistic
 [![Wakatime](https://wakatime.com/badge/user/YourUsername.svg)](https://wakatime.com/@018d3cd2-dfab-4771-a68a-369b71f74247)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanMalkS&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanMalkS&theme=default&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanMalkS&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanMalkS&theme=2077&utcOffset=8) 
 
 ## 📫 Contacts
 Telegramm: @IvanMalkS

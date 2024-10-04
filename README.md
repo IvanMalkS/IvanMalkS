@@ -77,6 +77,18 @@ I'm a web developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" width="40px" height="40px"/>
 </picture>
 &nbsp;
+<picture>
+  <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" width="40px" height="40px"/>
+</picture>
+&nbsp;
+<picture>
+  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="40px" height="40px"/>
+</picture>
+&nbsp;
+<picture>
+  <img src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d" width="40px" height="40px"/>
+</picture>
+&nbsp;
 
 ### Backend
 <picture>
@@ -139,8 +151,16 @@ I'm a web developer
   <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="40px" height="40px"/>
 </picture>
 &nbsp;
+<picture>
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40px" height="40px"/>
+</picture>
+&nbsp;
+<picture>
+  <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" width="40px" height="40px"/>
+</picture>
+&nbsp;
 
-### Others
+### Devops
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px" height="40px"/>
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="40px" height="40px"/>

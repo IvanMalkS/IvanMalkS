@@ -135,6 +135,10 @@ I'm a web developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" height="40px"/>
 </picture>
 &nbsp;
+<picture>
+  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="40px" height="40px"/>
+</picture>
+&nbsp;
 
 ### Others
 <picture>

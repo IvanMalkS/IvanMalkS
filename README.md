@@ -1,7 +1,4 @@
 # H1! I'm Ivan 👋
-
-I'm a web developer
-
 ## 🛠️ Technologies
 
 ### Frontend

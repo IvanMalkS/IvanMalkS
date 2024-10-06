@@ -206,5 +206,4 @@
 ---
 
 ## 📫 Contacts
-- **Telegram**: @IvanMalkS
-- **E-mail**: malkovsin@gmail.com
+- **Telegram**: @Ivan39142

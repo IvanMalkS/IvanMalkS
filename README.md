@@ -199,5 +199,3 @@
 
 ---
 
-## 📫 Contacts
-- **Telegram**: @Ivan39142
